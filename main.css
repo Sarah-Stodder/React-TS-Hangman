@@ -1,8 +1,6 @@
 body{
     background-image: url(desktop-wallpaper-minimalistic-multicolor-gaussian-blur-simple-backgrounds-white-backgrounds-white-blur.jpg);
-    background-size: cover;
-    max-height: 100vh;
-}
-.main{
-    max-height: 60%;
+   background-size: cover;
+   background-repeat: no-repeat;
+    max-height: 80% !important;
 }
