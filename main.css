@@ -1,4 +1,8 @@
 body{
-    background-image: url(digital-sunset-in-the-mountains-wallpaper-960x600_1.jpg);
+    background-image: url(desktop-wallpaper-minimalistic-multicolor-gaussian-blur-simple-backgrounds-white-backgrounds-white-blur.jpg);
     background-size: cover;
+    max-height: 100vh;
+}
+.main{
+    max-height: 60%;
 }
