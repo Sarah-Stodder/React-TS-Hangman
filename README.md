@@ -16,8 +16,5 @@ React
 Vite
 CSS
 
-## About the Project
-This Hangman game was originally based on a Python command-line game that helped the me learn the basics of programming. The game has since been expanded upon and rebuilt as a web application using TypeScript and React.
-
 ### Code inspiration
 [WebDevSimplified](https://www.youtube.com/watch?v=-ONUyenGnWw)
