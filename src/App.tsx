@@ -61,7 +61,7 @@ console.log(wordToGuess)
     alignItems: "center"
   }}>
     <div style={{fontSize: "2rem", textAlign: "center"}}>
-      {isWinner && "Winner Winner Chicken Dinner! Refresh to go again! (or press Enter)"}
+      {isWinner && "Winner Winner Chicken Dinner! Refresh to go again! (or press Enter) :D "}
       {isLoser && "Bummer! Refresh to go again! (or press Enter)"}
     </div>
     <HangmanDrawing numberOfGuesses={incorrectLeters.length}/>
